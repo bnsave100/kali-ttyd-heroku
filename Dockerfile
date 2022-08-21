@@ -1,6 +1,6 @@
 FROM kalilinux/kali-rolling
 
-ENV TTY_VER 1.6.1
+ENV TTY_VER 1.7.1
 #ENV USER kali
 #ENV PASSWORD kali
 
